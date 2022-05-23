@@ -31,6 +31,12 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 ---
 
+### Discrete Calculus
+
+1. **Discrete Calculus: Applied Analysis on Graphs for Computational Science**. Leo J. Grady, Jonathan R. Polimeni. [Book](http://leogrady.net/wp-content/uploads/2017/01/grady2010discrete.pdf)
+2. **Discrete Differential Forms for Computational Modeling**. Mathieu Desbrun, Eva Kanso & Yiying Tong. [Paper](https://dl.acm.org/doi/pdf/10.1145/1185657.1185665?casa_token=K71FDD1wHvAAAAAA:BtLvvN-ChokfibpRnGZAOSNvBW4Qy0ZkiasCFoL3PovzI4TKqBAZz8W8aGb9wgSb1WG8gQmyvsIH)
+---
+
 ### Courses
 
 1.  **Computational Algebraic Topology**.  Vidit Nanda. [Website](https://people.maths.ox.ac.uk/nanda/cat/), [Notes](https://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf), [Lectures](https://www.youtube.com/playlist?list=PLnLAqsCN_2ke8_EUd_KoJsLkPO0BKrrc6)
@@ -51,3 +57,4 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 ### Libraries
 
 1. **GUDHI: Geometry Understanding in Higher Dimensions**. [Website](https://gudhi.inria.fr/), [Code](https://github.com/GUDHI/gudhi-devel), [Tutorial](https://github.com/VincentRouvreau/GUDHI_presentation-NIPS_2017) 
+2. **PyDEC: Software and Algorithms for Discretization of Exterior Calculus**. Nathan Bell, Anil N. Hirani . [Paper](https://arxiv.org/abs/1103.3076), [Code](https://github.com/hirani/pydec)
