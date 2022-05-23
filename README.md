@@ -21,3 +21,11 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 6. **Simplicial Attention Neural Networks**. Lorenzo Giusti, Claudio Battiloro, Paolo Di Lorenzo, Stefania Sardellitti, Sergio Barbarossa. *arXiv 2022*. [Paper](https://arxiv.org/abs/2203.07485), [Code](https://github.com/lrnzgiusti/simplicial-attention-networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
 7. **Simplicial Attention Networks**. Christopher Wei Jin Goh, Cristian Bodnar, Pietro Liò. *ICLR 2022 Workshop on Geometrical and Topological Representation Learning*. [Paper](https://arxiv.org/abs/2204.09455), [Code](https://github.com/ggoh29/Simplicial-neural-network-benchmark) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+
+
+---
+
+Courses
+
+1.  **Computational Algebraic Topology**.  Vidit Nanda. [Website](https://people.maths.ox.ac.uk/nanda/cat/), [Notes](https://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf), [Lectures](https://www.youtube.com/playlist?list=PLnLAqsCN_2ke8_EUd_KoJsLkPO0BKrrc6)
+2. **Discrete Differential Geometry**. Keenan Crane. [Website](https://brickisland.net/DDGSpring2022/), [Notes](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf), [Lectures](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
