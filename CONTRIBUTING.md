@@ -6,7 +6,7 @@ Here are some important things to check before open a pull request:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- Use the following format: `**Title.** Authors. *Journal/Conference/arXiv year*. [Resource](link)`
+- Use the following format: `**Title**. Authors. *Journal/Conference/arXiv year*. [Resource](link)`
 - If the resource has additional links, i.e. a paper with the code, append the link as `[Code](link)`
 - The pull request and commit should have a useful title.
 
