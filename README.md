@@ -25,7 +25,13 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 ---
 
-Courses
+### Algebraic Topology
+
+1. **Computational and applied topology, tutorial**. Paweł Dłotko. [Link](https://arxiv.org/abs/1807.08607)
+
+---
+
+### Courses
 
 1.  **Computational Algebraic Topology**.  Vidit Nanda. [Website](https://people.maths.ox.ac.uk/nanda/cat/), [Notes](https://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf), [Lectures](https://www.youtube.com/playlist?list=PLnLAqsCN_2ke8_EUd_KoJsLkPO0BKrrc6)
 
@@ -40,4 +46,8 @@ Courses
   <img width="400" src="https://brickisland.net/DDGSpring2022/wp-content/uploads/2019/01/cropped-cropped-header.png">
 </p>
 
+---
 
+### Libraries
+
+1. **GUDHI: Geometry Understanding in Higher Dimensions**. [Website](https://gudhi.inria.fr/), [Code](https://github.com/GUDHI/gudhi-devel), [Tutorial](https://github.com/VincentRouvreau/GUDHI_presentation-NIPS_2017) 
