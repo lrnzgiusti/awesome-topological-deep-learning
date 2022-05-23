@@ -28,4 +28,11 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 Courses
 
 1.  **Computational Algebraic Topology**.  Vidit Nanda. [Website](https://people.maths.ox.ac.uk/nanda/cat/), [Notes](https://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf), [Lectures](https://www.youtube.com/playlist?list=PLnLAqsCN_2ke8_EUd_KoJsLkPO0BKrrc6)
+
 2. **Discrete Differential Geometry**. Keenan Crane. [Website](https://brickisland.net/DDGSpring2022/), [Notes](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf), [Lectures](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
+
+<p align="center">
+  <img width="100" src="https://brickisland.net/DDGSpring2022/wp-content/uploads/2019/01/cropped-cropped-header.png">
+</p>
+
+
