@@ -1,5 +1,11 @@
 # Awesome TDL  [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![Maturity level-Prototype](https://img.shields.io/badge/Maturity%20Level-Prototype-red)
 
+
+
+<p align="center">
+  <img width="1000" src="https://i.stack.imgur.com/OtHjc.jpg">
+</p>
+
 A curated list of Topological Deep Learning (TDL) tools and resources. 
 
 1. **Simplicial Neural Networks**. Stefania Ebli, Michaël Defferrard, Gard Spreemann. *NeurIPS 2020 Workshop TDA and Beyond*. [Paper](https://openreview.net/pdf?id=nPCt39DVIfk), [Code](https://github.com/stefaniaebli/simplicial_neural_networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
