@@ -29,6 +29,11 @@ Courses
 
 1.  **Computational Algebraic Topology**.  Vidit Nanda. [Website](https://people.maths.ox.ac.uk/nanda/cat/), [Notes](https://people.maths.ox.ac.uk/nanda/cat/TDANotes.pdf), [Lectures](https://www.youtube.com/playlist?list=PLnLAqsCN_2ke8_EUd_KoJsLkPO0BKrrc6)
 
+<p align="center">
+  <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Torus.png">
+</p>
+
+
 2. **Discrete Differential Geometry**. Keenan Crane. [Website](https://brickisland.net/DDGSpring2022/), [Notes](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf), [Lectures](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
 
 <p align="center">
