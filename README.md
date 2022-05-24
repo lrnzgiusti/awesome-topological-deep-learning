@@ -28,6 +28,18 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 ---
 
+### Topological Signal Processing
+1. **Topological signal processing over simplicial complexes**. Sergio Barbarossa, Stefania Sardellitti. *IEEE Transactions on Signal Processing 2020*. [Paper](https://arxiv.org/abs/1907.11577)
+2. **Signal processing on higher-order networks: Livin’ on the edge... and beyond**. Michael T. Schaub, Yu Zhu, Jean-Baptiste Seby, T. Mitchell Roddenberry, Santiago Segarra. *Signal Processing, 2021 - Elsevier* [Paper](https://arxiv.org/abs/2101.05510)
+3. **Hodge Laplacians on Graphs**. Lek-Heng Lim. *Society for Industrial and Applied Mathematics 2020*. [Paper](https://epubs.siam.org/doi/pdf/10.1137/18M1223101)
+4. **Random Walks on Simplicial Complexes and the normalized Hodge 1-Laplacian**. Michael T. Schaub, Austin R. Benson, Paul Horn, Gabor Lippner, Ali Jadbabaie. *SIAM 2020*. [Paper](https://epubs.siam.org/doi/pdf/10.1137/18M1201019?casa_token=3_n5OReMfD8AAAAA:1al8NfUIgAK5Gu0SiiHvNjgTVvrcX6uc9EhF0IZcd9V58JefCh4GUnWItVYFGFvAnhNIOo7v)
+5. **What are higher-order networks?** Christian Bick, Elizabeth Gross, Heather A. Harrington, Michael T. Schaub. *arXiv 2021*. [Paper](https://arxiv.org/abs/2104.11329)
+6. **Topological Signal Processing over Cell Complexes**. Stefania Sardellitti, Sergio Barbarossa, Lucia Testa. *arXiv 2021*. [Paper](https://arxiv.org/abs/2112.06709)
+7. **Topological Signal Representation and Processing over Cell Complexes**. Stefania Sardellitti, Sergio Barbarossa. *arXiv 2022*. [Paper](https://arxiv.org/abs/2201.08993)
+8. **Robust Signal Processing Over Simplicial Complexes**. Stefania Sardellitti, Sergio Barbarossa. *ICASSP 2022*. [Paper](https://ieeexplore.ieee.org/abstract/document/9746761/)
+
+---
+
 ### Algebraic Topology
 
 1. **Computational and applied topology, tutorial**. Paweł Dłotko. *2018*. [Paper](https://arxiv.org/abs/1807.08607)
