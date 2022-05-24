@@ -12,23 +12,27 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 2. **Simplicial 2-Complex Convolutional Neural Nets**. Eric Bunch, Qian You, Glenn Fung, Vikas Singh. *NeurIPS 2020 Workshop TDA and Beyond*. [Paper](https://openreview.net/pdf?id=TLbnsKrt6J-), [Code](https://github.com/AmFamMLTeam/simplicial-2-complex-cnns) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-3. **Principled simplicial neural networks for trajectory prediction**.  Roddenberry, T. Mitchell, Nicholas Glaze, and Santiago Segarra. *ICML 2021*. [Paper](http://proceedings.mlr.press/v139/roddenberry21a/roddenberry21a.pdf), [Code](https://github.com/nglaze00/SCoNe_GCN) <img width="20" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/jax-6ee30fa5.png">
+3. **Cell complex neural networks**. Mustafa Hajij, Kyle Istvan, and Ghada Zamzmi. *NeurIPS Workshop on Topological Data Analysis and Beyond, 2020*. [Paper](https://openreview.net/pdf?id=6Tq18ySFpGU)
 
-4. **Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks**. Cristian Bodnar, Fabrizio Frasca, Yu Guang Wang, Nina Otter, Guido Montúfar, Pietro Liò, Michael Bronstein. *ICML 2021*. [Paper](http://proceedings.mlr.press/v139/bodnar21a/bodnar21a.pdf), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+4. **Principled simplicial neural networks for trajectory prediction**.  Roddenberry, T. Mitchell, Nicholas Glaze, and Santiago Segarra. *ICML 2021*. [Paper](http://proceedings.mlr.press/v139/roddenberry21a/roddenberry21a.pdf), [Code](https://github.com/nglaze00/SCoNe_GCN) <img width="20" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/jax-6ee30fa5.png">
 
-5. **Weisfeiler and Lehman Go Cellular: CW Networks**. Cristian Bodnar, Fabrizio Frasca, Nina Otter, Yu Guang Wang, Pietro Liò, Guido Montúfar, Michael Bronstein. *NeurIPS 2021*. [Paper](https://proceedings.neurips.cc/paper/2021/file/157792e4abb490f99dbd738483e0d2d4-Paper.pdf), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+5. **Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks**. Cristian Bodnar, Fabrizio Frasca, Yu Guang Wang, Nina Otter, Guido Montúfar, Pietro Liò, Michael Bronstein. *ICML 2021*. [Paper](http://proceedings.mlr.press/v139/bodnar21a/bodnar21a.pdf), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-6. **Simplicial Attention Neural Networks**. Lorenzo Giusti, Claudio Battiloro, Paolo Di Lorenzo, Stefania Sardellitti, Sergio Barbarossa. *arXiv 2022*. [Paper](https://arxiv.org/abs/2203.07485), [Code](https://github.com/lrnzgiusti/simplicial-attention-networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+6. **Weisfeiler and Lehman Go Cellular: CW Networks**. Cristian Bodnar, Fabrizio Frasca, Nina Otter, Yu Guang Wang, Pietro Liò, Guido Montúfar, Michael Bronstein. *NeurIPS 2021*. [Paper](https://proceedings.neurips.cc/paper/2021/file/157792e4abb490f99dbd738483e0d2d4-Paper.pdf), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-7. **Simplicial Attention Networks**. Christopher Wei Jin Goh, Cristian Bodnar, Pietro Liò. *ICLR 2022 Workshop on Geometrical and Topological Representation Learning*. [Paper](https://arxiv.org/abs/2204.09455), [Code](https://github.com/ggoh29/Simplicial-neural-network-benchmark) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+7. **Simplicial Attention Neural Networks**. Lorenzo Giusti, Claudio Battiloro, Paolo Di Lorenzo, Stefania Sardellitti, Sergio Barbarossa. *arXiv 2022*. [Paper](https://arxiv.org/abs/2203.07485), [Code](https://github.com/lrnzgiusti/simplicial-attention-networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
+8. **Simplicial Attention Networks**. Christopher Wei Jin Goh, Cristian Bodnar, Pietro Liò. *ICLR 2022 Workshop on Geometrical and Topological Representation Learning*. [Paper](https://arxiv.org/abs/2204.09455), [Code](https://github.com/ggoh29/Simplicial-neural-network-benchmark) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+
+9. **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**. Cristian Bodnar, Francesco Di Giovanni, Benjamin Paul Chamberlain, Pietro Liò, Michael M. Bronstein. *arXiv 2022*. [Paper](https://arxiv.org/abs/2202.04579)
 
 ---
 
 ### Algebraic Topology
 
-1. **Computational and applied topology, tutorial**. Paweł Dłotko. *2018*. [Link](https://arxiv.org/abs/1807.08607)
-
+1. **Computational and applied topology, tutorial**. Paweł Dłotko. *2018*. [Paper](https://arxiv.org/abs/1807.08607)
+2. **Algebraic topology**. Allen Hatcher.  *Cambridge Univ. Press. 2000*. [Book](http://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
+3. **Cell Complexes through Time**. Reinhard Klette. *Vision Geometry 2000*. [Paper](https://www.maths.ed.ac.uk/~v1ranick/papers/klette.pdf)
 ---
 
 ### Discrete Calculus
