@@ -47,6 +47,14 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 3. **Cell Complexes through Time**. Reinhard Klette. *Vision Geometry 2000*. [Paper](https://www.maths.ed.ac.uk/~v1ranick/papers/klette.pdf)
 ---
 
+---
+
+### Differential Geometry
+
+1. **Introduction to Differential Geometry**. Joel W. Robbin, Dietmar A. Salamon. [Book](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf)
+2. **Differential Geometry and Stochastic Dynamics with Deep Learning Numerics** Line Kühnel, Alexis Arnaudon, and Stefan Sommer. *arXiv 2017*. [Paper](https://arxiv.org/pdf/1712.08364.pdf)
+---
+
 ### Discrete Calculus
 
 1. **Discrete Calculus: Applied Analysis on Graphs for Computational Science**. Leo J. Grady, Jonathan R. Polimeni. *Springer 2010* . [Book](http://leogrady.net/wp-content/uploads/2017/01/grady2010discrete.pdf)
@@ -62,11 +70,20 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 </p>
 
 
+
 2. **Discrete Differential Geometry**. Keenan Crane. [Website](https://brickisland.net/DDGSpring2022/), [Notes](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf), [Lectures](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
 
 <p align="center">
   <img width="400" src="https://brickisland.net/DDGSpring2022/wp-content/uploads/2019/01/cropped-cropped-header.png">
 </p>
+
+
+3. **Shape Analysis**. Justin Solomon. [Website](http://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html), [Lectures](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW)
+
+<p align="center">
+  <img width="400" src="http://groups.csail.mit.edu/gdpgroup/assets/research_thumbnails/teapot.png">
+</p>
+
 
 ---
 
