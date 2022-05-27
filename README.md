@@ -26,6 +26,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 9. **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**. Cristian Bodnar, Francesco Di Giovanni, Benjamin Paul Chamberlain, Pietro Liò, Michael M. Bronstein. *arXiv 2022*. [Paper](https://arxiv.org/abs/2202.04579)
 
+10. **Simplicial Convolutional Neural Networks**. Maosheng Yang, Elvin Isufi, Geert Leus. *ICASSP 2022*. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746017&casa_token=Qg3EgJQy7dkAAAAA:zir5JmgmjZBArJNQuatXU1z4L-z5FqruCyONv7aUuNXPxokdayx6d3C9Nj06ng5CXTl3mgc), [Code](https://github.com/cookbook-ms/simplicial_convolutional_neural_networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 ---
 
 ### Topological Signal Processing
@@ -37,7 +38,6 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 6. **Topological Signal Processing over Cell Complexes**. Stefania Sardellitti, Sergio Barbarossa, Lucia Testa. *arXiv 2021*. [Paper](https://arxiv.org/abs/2112.06709)
 7. **Topological Signal Representation and Processing over Cell Complexes**. Stefania Sardellitti, Sergio Barbarossa. *arXiv 2022*. [Paper](https://arxiv.org/abs/2201.08993)
 8. **Robust Signal Processing Over Simplicial Complexes**. Stefania Sardellitti, Sergio Barbarossa. *ICASSP 2022*. [Paper](https://ieeexplore.ieee.org/abstract/document/9746761/)
-
 ---
 
 ### Algebraic Topology
@@ -47,18 +47,19 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 3. **Cell Complexes through Time**. Reinhard Klette. *Vision Geometry 2000*. [Paper](https://www.maths.ed.ac.uk/~v1ranick/papers/klette.pdf)
 ---
 
----
 
 ### Differential Geometry
 
 1. **Introduction to Differential Geometry**. Joel W. Robbin, Dietmar A. Salamon. [Book](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf)
 2. **Differential Geometry and Stochastic Dynamics with Deep Learning Numerics** Line Kühnel, Alexis Arnaudon, and Stefan Sommer. *arXiv 2017*. [Paper](https://arxiv.org/pdf/1712.08364.pdf)
+3. **Differential Geometry meets Deep Learning (DiffGeo4DL)** Joey Bose · Emile Mathieu · Charline Le Lan · Ines Chami · Frederic Sala · Christopher De Sa · Maximilian Nickel · Christopher Ré · Will Hamilton. *NeurIPS 2020 Workshop*. [Link](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=16116)
 ---
 
 ### Discrete Calculus
+1. **Discrete Exterior Calculus**. Anil N. Hirani. *Caltech Library 2003*. [PhD Thesis](https://thesis.library.caltech.edu/1885/3/thesis_hirani.pdf)
 
-1. **Discrete Calculus: Applied Analysis on Graphs for Computational Science**. Leo J. Grady, Jonathan R. Polimeni. *Springer 2010* . [Book](http://leogrady.net/wp-content/uploads/2017/01/grady2010discrete.pdf)
-2. **Discrete Differential Forms for Computational Modeling**. Mathieu Desbrun, Eva Kanso & Yiying Tong. *SIGGRAPH 2006*. [Paper](https://dl.acm.org/doi/pdf/10.1145/1185657.1185665?casa_token=K71FDD1wHvAAAAAA:BtLvvN-ChokfibpRnGZAOSNvBW4Qy0ZkiasCFoL3PovzI4TKqBAZz8W8aGb9wgSb1WG8gQmyvsIH)
+2. **Discrete Calculus: Applied Analysis on Graphs for Computational Science**. Leo J. Grady, Jonathan R. Polimeni. *Springer 2010* . [Book](http://leogrady.net/wp-content/uploads/2017/01/grady2010discrete.pdf)
+3. **Discrete Differential Forms for Computational Modeling**. Mathieu Desbrun, Eva Kanso & Yiying Tong. *SIGGRAPH 2006*. [Paper](https://dl.acm.org/doi/pdf/10.1145/1185657.1185665?casa_token=K71FDD1wHvAAAAAA:BtLvvN-ChokfibpRnGZAOSNvBW4Qy0ZkiasCFoL3PovzI4TKqBAZz8W8aGb9wgSb1WG8gQmyvsIH)
 ---
 
 ### Courses
