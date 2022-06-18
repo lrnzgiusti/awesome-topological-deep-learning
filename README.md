@@ -27,6 +27,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 9. **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**. Cristian Bodnar, Francesco Di Giovanni, Benjamin Paul Chamberlain, Pietro Liò, Michael M. Bronstein. *arXiv 2022*. [Paper](https://arxiv.org/abs/2202.04579)
 
 10. **Simplicial Convolutional Neural Networks**. Maosheng Yang, Elvin Isufi, Geert Leus. *ICASSP 2022*. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746017&casa_token=Qg3EgJQy7dkAAAAA:zir5JmgmjZBArJNQuatXU1z4L-z5FqruCyONv7aUuNXPxokdayx6d3C9Nj06ng5CXTl3mgc), [Code](https://github.com/cookbook-ms/simplicial_convolutional_neural_networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+
+11. **Higher-Order Attention Networks**. Mustafa Hajij, Ghada Zamzmi, Theodore Papamarkou, Nina Miolane, Aldo Guzmán-Sáenz, Karthikeyan Natesan Ramamurthy. [Paper](https://arxiv.org/abs/2206.00606)
 ---
 
 ### Topological Signal Processing
