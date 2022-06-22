@@ -94,4 +94,4 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 ### Libraries
 
 1. **GUDHI: Geometry Understanding in Higher Dimensions**. [Website](https://gudhi.inria.fr/), [Code](https://github.com/GUDHI/gudhi-devel), [Tutorial](https://github.com/VincentRouvreau/GUDHI_presentation-NIPS_2017) 
-2. **PyDEC: Software and Algorithms for Discretization of Exterior Calculus**. Nathan Bell, Anil N. Hirani . *2011* .[Paper](https://arxiv.org/abs/1103.3076), [Code](https://github.com/hirani/pydec)
+2. **PyDEC: Software and Algorithms for Discretization of Exterior Calculus**. Nathan Bell, Anil N. Hirani. *2011*. [Paper](https://arxiv.org/abs/1103.3076), [Code](https://github.com/hirani/pydec)
