@@ -30,9 +30,11 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 11. **Higher-Order Attention Networks**. Mustafa Hajij, Ghada Zamzmi, Theodore Papamarkou, Nina Miolane, Aldo Guzmán-Sáenz, Karthikeyan Natesan Ramamurthy. *arXiv 2022*. [Paper](https://arxiv.org/abs/2206.00606)
 
-12. **Sheaf Neural Networks with Connection Laplacians**.  Federico Barbero, Cristian Bodnar, Haitz Sáez de Ocáriz Borde, Michael Bronstein, Petar Veličković, Pietro Liò. *ICML 2022 Workshop on Topology, Algebra, and Geometry in Machine Learning*. [Paper](https://arxiv.org/abs/2206.08702)
+12. **Sheaf Neural Networks with Connection Laplacians**. Federico Barbero, Cristian Bodnar, Haitz Sáez de Ocáriz Borde, Michael Bronstein, Petar Veličković, Pietro Liò. *ICML 2022 Workshop on Topology, Algebra, and Geometry in Machine Learning*. [Paper](https://arxiv.org/abs/2206.08702)
 
 13. **Sheaf Attention Networks**. Federico Barbero, Cristian Bodnar, Haitz Sáez de Ocáriz Borde, Pietro Liò. *NeurIPS 2022 Workshop NeurReps Program Chairs*. [Paper](https://openreview.net/pdf?id=LIDvgVjpkZr)
+
+14. **Cell Attention Networks**. Lorenzo Giusti, Claudio Battiloro, Lucia Testa, Paolo Di Lorenzo, Stefania Sardellitti, Sergio Barbarossa. [Paper](https://arxiv.org/abs/2209.08179)
 ---
 
 ### Topological Signal Processing
