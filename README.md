@@ -36,6 +36,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 14. **Cell Attention Networks**. Lorenzo Giusti, Claudio Battiloro, Lucia Testa, Paolo Di Lorenzo, Stefania Sardellitti, Sergio Barbarossa. [Paper](https://arxiv.org/abs/2209.08179), [Code](https://github.com/lrnzgiusti/can) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
+15. **Surfing on the Neural Sheaf**. Julian Suk, Lorenzo Giusti, Tamir Hemo, Miguel Lopez, Konstantinos Barmpas, Cristian Bodnar. *NeurIPS 2022 Workshop NeurReps Program Chairs*. [Paper](https://openreview.net/pdf?id=xOXFkyRzTlu)
+
 ---
 
 ### Topological Signal Processing
