@@ -38,6 +38,11 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 15. **Surfing on the Neural Sheaf**. Julian Suk, Lorenzo Giusti, Tamir Hemo, Miguel Lopez, Konstantinos Barmpas, Cristian Bodnar. *NeurIPS 2022 Workshop NeurReps Program Chairs*. [Paper](https://openreview.net/pdf?id=xOXFkyRzTlu)
 
+16. **Architectures of Topological Deep Learning: A Survey on Topological Neural Networks**. Mathilde Papillon, Sophia Sanborn, Mustafa Hajij, Nina Miolane. [Paper](https://arxiv.org/abs/2304.10031)
+
+17. **Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back**. Claudio Battiloro, Zhiyang Wang, Hans Riess, Paolo Di Lorenzo, Alejandro Ribeiro. [Paper](https://arxiv.org/abs/2303.11323) [Code](https://github.com/clabat9/Tangent-Bundle-Neural-Networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+
+
 ---
 
 ### Topological Signal Processing
