@@ -44,6 +44,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 18. **Topological Graph Neural Networks**. Max Horn, Edward De Brouwer, Michael Moor, Yves Moreau, Bastian Rieck, and Karsten Borgwardt. *ICLR 2022*. [Paper](https://openreview.net/pdf?id=oxxUMeFwEHd), [Code](https://github.com/BorgwardtLab/TOGL) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
+19. **Topological Autoencoders**. Michael Moor, Max Horn, Bastian Rieck, and Karsten Borgwardt. *ICML 2020*. [Paper](https://proceedings.mlr.press/v119/moor20a.html), [Code](https://github.com/BorgwardtLab/topological-autoencoders) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+
 ---
 
 ### Topological Signal Processing
