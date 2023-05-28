@@ -46,6 +46,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 19. **Topological Autoencoders**. Michael Moor, Max Horn, Bastian Rieck, and Karsten Borgwardt. *ICML 2020*. [Paper](https://proceedings.mlr.press/v119/moor20a.html), [Code](https://github.com/BorgwardtLab/topological-autoencoders) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
+20. **E(n) Equivariant Message Passing Simplicial Networks**. Floor Eijkelboom, Rob Hesselink, Erik Bekkers. *ICML 2023*. [Paper](https://arxiv.org/abs/2305.07100)
+
 ---
 
 ### Topological Signal Processing
