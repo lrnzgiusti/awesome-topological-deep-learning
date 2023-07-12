@@ -49,7 +49,10 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 20. **E(n) Equivariant Message Passing Simplicial Networks**. Floor Eijkelboom, Rob Hesselink, Erik Bekkers. *ICML 2023*. [Paper](https://arxiv.org/abs/2305.07100)
 
 21. **CIN++: Enhancing Topological Message Passing**. Lorenzo Giusti, Teodora Reu, Francesco Ceccarelli, Cristian Bodnar, Pietro Liò. [Paper](https://arxiv.org/abs/2306.03561), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">.
-22.  **Simplicial Hopfield networks**. Thomas F Burns, Tomoki Fukai. *ICLR 2023*. [Paper](https://arxiv.org/abs/2305.05179), [Code](https://github.com/tfburns/simplicial-hopfield-networks) 
+    
+22.  **Simplicial Hopfield networks**. Thomas F Burns, Tomoki Fukai. *ICLR 2023*. [Paper](https://arxiv.org/abs/2305.05179), [Code](https://github.com/tfburns/simplicial-hopfield-networks).
+
+23.  **Topological Deep Learning: Graphs, Complexes, Sheaves**.  Cristian Bodnar. [Thesis](https://www.repository.cam.ac.uk/handle/1810/350982)
 ---
 
 ### Topological Signal Processing
