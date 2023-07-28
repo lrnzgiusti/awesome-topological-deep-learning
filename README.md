@@ -109,6 +109,11 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
   <img width="200" height="200" src="http://groups.csail.mit.edu/gdpgroup/assets/research_thumbnails/teapot.png">
 </p>
 
+--- 
+
+### Blog
+
+1. **Learning on Topological Spaces: A new computational fabric for Graph Neural Networks**. Michael Bronstein, Cristian Bodnar and Fabrizio Frasca. [URL](https://towardsdatascience.com/a-new-computational-fabric-for-graph-neural-networks-280ea7e3ed1a)
 
 ---
 
