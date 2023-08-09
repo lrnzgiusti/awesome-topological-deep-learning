@@ -8,7 +8,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 </p>
 
 
-1. **Simplicial Neural Networks**. Stefania Ebli, Michaël Defferrard, Gard Spreemann. *NeurIPS 2020 Workshop TDA and Beyond*. [Paper](https://openreview.net/pdf?id=nPCt39DVIfk), [Code](https://github.com/stefaniaebli/simplicial_neural_networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png"> <a href="https://www.youtube.com/watch?v=2cidzWXH_vg">
+1. **Simplicial Neural Networks**. Stefania Ebli, Michaël Defferrard, Gard Spreemann. *NeurIPS 2020 Workshop TDA and Beyond*. [Paper](https://openreview.net/pdf?id=nPCt39DVIfk), [Code](https://github.com/stefaniaebli/simplicial_neural_networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">, <a href="https://www.youtube.com/watch?v=2cidzWXH_vg">
        <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
    </a>
 
@@ -20,7 +20,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 5. **Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks**. Cristian Bodnar, Fabrizio Frasca, Yu Guang Wang, Nina Otter, Guido Montúfar, Pietro Liò, Michael Bronstein. *ICML 2021*. [Paper](http://proceedings.mlr.press/v139/bodnar21a/bodnar21a.pdf), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-6. **Weisfeiler and Lehman Go Cellular: CW Networks**. Cristian Bodnar, Fabrizio Frasca, Nina Otter, Yu Guang Wang, Pietro Liò, Guido Montúfar, Michael Bronstein. *NeurIPS 2021*. [Paper](https://proceedings.neurips.cc/paper/2021/file/157792e4abb490f99dbd738483e0d2d4-Paper.pdf), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png"> <a href="https://www.youtube.com/watch?v=MTQGNVTn9lQ">
+6. **Weisfeiler and Lehman Go Cellular: CW Networks**. Cristian Bodnar, Fabrizio Frasca, Nina Otter, Yu Guang Wang, Pietro Liò, Guido Montúfar, Michael Bronstein. *NeurIPS 2021*. [Paper](https://proceedings.neurips.cc/paper/2021/file/157792e4abb490f99dbd738483e0d2d4-Paper.pdf), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">, <a href="https://www.youtube.com/watch?v=MTQGNVTn9lQ">
        <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
    </a>
 
@@ -28,7 +28,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 8. **Simplicial Attention Networks**. Christopher Wei Jin Goh, Cristian Bodnar, Pietro Liò. *ICLR 2022 Workshop on Geometrical and Topological Representation Learning*. [Paper](https://arxiv.org/abs/2204.09455), [Code](https://github.com/ggoh29/Simplicial-neural-network-benchmark) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-9. **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**. Cristian Bodnar, Francesco Di Giovanni, Benjamin Paul Chamberlain, Pietro Liò, Michael M. Bronstein. *NeurIPS 2022*. [Paper](https://arxiv.org/abs/2202.04579), [Code](https://github.com/twitter-research/neural-sheaf-diffusion) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">  <a href="https://www.youtube.com/watch?v=90MbHphnPUU">
+9. **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**. Cristian Bodnar, Francesco Di Giovanni, Benjamin Paul Chamberlain, Pietro Liò, Michael M. Bronstein. *NeurIPS 2022*. [Paper](https://arxiv.org/abs/2202.04579), [Code](https://github.com/twitter-research/neural-sheaf-diffusion) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">,  <a href="https://www.youtube.com/watch?v=90MbHphnPUU">
        <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
    </a>
 
