@@ -19,7 +19,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 5. **Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks**. Cristian Bodnar, Fabrizio Frasca, Yu Guang Wang, Nina Otter, Guido Montúfar, Pietro Liò, Michael Bronstein. *ICML 2021*. [Paper](http://proceedings.mlr.press/v139/bodnar21a/bodnar21a.pdf), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
 6. **Weisfeiler and Lehman Go Cellular: CW Networks**. Cristian Bodnar, Fabrizio Frasca, Nina Otter, Yu Guang Wang, Pietro Liò, Guido Montúfar, Michael Bronstein. *NeurIPS 2021*. [Paper](https://proceedings.neurips.cc/paper/2021/file/157792e4abb490f99dbd738483e0d2d4-Paper.pdf), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png"> <a href="https://www.youtube.com/watch?v=MTQGNVTn9lQ">
-       <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="11">
+       <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="13">
    </a>
 
 7. **Simplicial Attention Neural Networks**. Lorenzo Giusti, Claudio Battiloro, Paolo Di Lorenzo, Stefania Sardellitti, Sergio Barbarossa. *arXiv 2022*. [Paper](https://arxiv.org/abs/2203.07485), [Code](https://github.com/lrnzgiusti/simplicial-attention-networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
