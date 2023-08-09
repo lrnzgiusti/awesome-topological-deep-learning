@@ -26,7 +26,9 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 8. **Simplicial Attention Networks**. Christopher Wei Jin Goh, Cristian Bodnar, Pietro Liò. *ICLR 2022 Workshop on Geometrical and Topological Representation Learning*. [Paper](https://arxiv.org/abs/2204.09455), [Code](https://github.com/ggoh29/Simplicial-neural-network-benchmark) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-9. **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**. Cristian Bodnar, Francesco Di Giovanni, Benjamin Paul Chamberlain, Pietro Liò, Michael M. Bronstein. *NeurIPS 2022*. [Paper](https://arxiv.org/abs/2202.04579), [Code](https://github.com/twitter-research/neural-sheaf-diffusion) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+9. **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**. Cristian Bodnar, Francesco Di Giovanni, Benjamin Paul Chamberlain, Pietro Liò, Michael M. Bronstein. *NeurIPS 2022*. [Paper](https://arxiv.org/abs/2202.04579), [Code](https://github.com/twitter-research/neural-sheaf-diffusion) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">  <a href="https://www.youtube.com/watch?v=90MbHphnPUU">
+       <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
+   </a>
 
 10. **Simplicial Convolutional Neural Networks**. Maosheng Yang, Elvin Isufi, Geert Leus. *ICASSP 2022*. [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746017&casa_token=Qg3EgJQy7dkAAAAA:zir5JmgmjZBArJNQuatXU1z4L-z5FqruCyONv7aUuNXPxokdayx6d3C9Nj06ng5CXTl3mgc), [Code](https://github.com/cookbook-ms/simplicial_convolutional_neural_networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
