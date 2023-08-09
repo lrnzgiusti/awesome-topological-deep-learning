@@ -14,10 +14,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 2. **Simplicial 2-Complex Convolutional Neural Nets**. Eric Bunch, Qian You, Glenn Fung, Vikas Singh. *NeurIPS 2020 Workshop TDA and Beyond*. [Paper](https://openreview.net/pdf?id=TLbnsKrt6J-), [Code](https://github.com/AmFamMLTeam/simplicial-2-complex-cnns) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-3. **Cell complex neural networks**. Mustafa Hajij, Kyle Istvan, and Ghada Zamzmi. *NeurIPS Workshop on Topological Data Analysis and Beyond, 2020*. [Paper](https://openreview.net/pdf?id=6Tq18ySFpGU), 
-<a href="https://www.youtube.com/watch?v=WIlLlKoTU9o">
-       <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
-   </a>
+3. **Cell complex neural networks**. Mustafa Hajij, Kyle Istvan, and Ghada Zamzmi. *NeurIPS Workshop on Topological Data Analysis and Beyond, 2020*. [Paper](https://openreview.net/pdf?id=6Tq18ySFpGU), <a href="https://www.youtube.com/watch?v=WIlLlKoTU9o"> <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15"> </a>
 
 4. **Principled simplicial neural networks for trajectory prediction**.  Roddenberry, T. Mitchell, Nicholas Glaze, and Santiago Segarra. *ICML 2021*. [Paper](http://proceedings.mlr.press/v139/roddenberry21a/roddenberry21a.pdf), [Code](https://github.com/nglaze00/SCoNe_GCN) <img width="20" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/jax-6ee30fa5.png">
 
