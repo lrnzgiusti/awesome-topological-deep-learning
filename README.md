@@ -46,7 +46,9 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 16. **Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back**. Claudio Battiloro, Zhiyang Wang, Hans Riess, Paolo Di Lorenzo, Alejandro Ribeiro. [Paper](https://arxiv.org/abs/2303.11323), [Code](https://github.com/clabat9/Tangent-Bundle-Neural-Networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-17. **Topological Graph Neural Networks**. Max Horn, Edward De Brouwer, Michael Moor, Yves Moreau, Bastian Rieck, and Karsten Borgwardt. *ICLR 2022*. [Paper](https://openreview.net/pdf?id=oxxUMeFwEHd), [Code](https://github.com/BorgwardtLab/TOGL) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+17. **Topological Graph Neural Networks**. Max Horn, Edward De Brouwer, Michael Moor, Yves Moreau, Bastian Rieck, and Karsten Borgwardt. *ICLR 2022*. [Paper](https://openreview.net/pdf?id=oxxUMeFwEHd), [Code](https://github.com/BorgwardtLab/TOGL) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">, <a href="https://www.youtube.com/watch?v=CznfqG9Aigo">
+       <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
+   </a>
 
 18. **Topological Autoencoders**. Michael Moor, Max Horn, Bastian Rieck, and Karsten Borgwardt. *ICML 2020*. [Paper](https://proceedings.mlr.press/v119/moor20a.html), [Code](https://github.com/BorgwardtLab/topological-autoencoders) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
