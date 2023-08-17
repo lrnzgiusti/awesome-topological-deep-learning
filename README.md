@@ -65,6 +65,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 
 22. **Topological Deep Learning: Graphs, Complexes, Sheaves**.  Cristian Bodnar. [Thesis](https://www.repository.cam.ac.uk/handle/1810/350982)
+23. **Generalizing Topological Graph Neural Networks with Paths**. Quang Truong and Peter Chin. [Paper](https://arxiv.org/abs/2308.06838)
 ---
 
 ### Topological Signal Processing
