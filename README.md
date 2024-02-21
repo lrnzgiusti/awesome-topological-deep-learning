@@ -72,6 +72,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 25. **TopoX: A Suite of Python Packages for Machine Learning on Topological Domains**. Mustafa Hajij, Mathilde Papillon, Florian Frantzen et al. [Paper](https://arxiv.org/abs/2402.02441), [Code](https://github.com/pyt-team/TopoNetX)  <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
+26. **Topological Neural Networks: Mitigating the Bottlenecks of Graph Neural Networks via Higher-Order Interactions**. Lorenzo Giusti. [Thesis](https://arxiv.org/abs/2402.06908)
+
 ---
 
 ### Topological Signal Processing
