@@ -66,7 +66,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 22. **Topological Deep Learning: Graphs, Complexes, Sheaves**.  Cristian Bodnar. [Thesis](https://www.repository.cam.ac.uk/handle/1810/350982)
     
-23. **Weisfeiler and Lehman Go Paths: Learning Topological Features via Path Complexes**. Quang Truong and Peter Chin. [Paper](https://arxiv.org/abs/2308.06838v5)
+23. **Weisfeiler and Lehman Go Paths: Learning Topological Features via Path Complexes**. Quang Truong and Peter Chin. *AAAI 2024*. [Paper](https://arxiv.org/abs/2308.06838), [Code](https://github.com/quang-truong/Path-Complex-Networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
 24. **Generalized simplicial attention neural networks**. Claudio Battiloro, Lucia Testa, Lorenzo Giusti, Stefania Sardellitti, Paolo Di Lorenzo, Sergio Barbarossa. [Paper](https://arxiv.org/abs/2309.02138)
 
