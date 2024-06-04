@@ -4,7 +4,7 @@
 A curated list of Topological Deep Learning (TDL) tools and resources.
 
 <p align="center">
-  <img width="500" src="https://i.stack.imgur.com/OtHjc.jpg">
+  <img width="500" src="https://nyuad.nyu.edu/content/nyuad/en/home/research/faculty-labs-and-projects/cqts/events/_jcr_content/mainparsys/tabs_1957616313/tabparsys1/image/image.img.jpg">
 </p>
 
 
