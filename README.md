@@ -74,6 +74,11 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 26. **Topological Neural Networks: Mitigating the Bottlenecks of Graph Neural Networks via Higher-Order Interactions**. Lorenzo Giusti. [Thesis](https://arxiv.org/abs/2402.06908)
 
+27.  **From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module**. Claudio Battiloro, Indro Spinelli et al. [Paper](https://openreview.net/forum?id=0JsRZEGZ7L), [Code](https://github.com/spindro/differentiable_cell-complex_module), [Blogpost](https://clabat9.medium.com/latent-topology-inference-0a3c04bf0fa5)
+
+27.  **E(n) Equivariant Topological Neral Networks**. Claudio Battiloro, Ege Karaismailoğlu, Mauricio Tec, George Dasoulas et al. [Paper](https://arxiv.org/abs/2405.15429), [Code](https://github.com/NSAPH-Projects/topological-equivariant-networks), [Blogpost](https://clabat9.medium.com/e-n-equivariant-topological-neural-networks-3117f582d6bf)
+
+
 ---
 
 ### Topological Signal Processing
