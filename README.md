@@ -78,6 +78,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 27.  **E(n) Equivariant Topological Neral Networks**. Claudio Battiloro, Ege Karaismailoğlu, Mauricio Tec, George Dasoulas et al. [Paper](https://arxiv.org/abs/2405.15429), [Code](https://github.com/NSAPH-Projects/topological-equivariant-networks), [Blogpost](https://clabat9.medium.com/e-n-equivariant-topological-neural-networks-3117f582d6bf)
 
+28. **Signal Processing and Learning over Topological Spaces**. Claudio Battiloro. [Thesis](https://theses.eurasip.org/theses/974/signal-processing-and-learning-over-topological/)
 
 ---
 
