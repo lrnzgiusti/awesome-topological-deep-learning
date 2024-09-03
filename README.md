@@ -80,6 +80,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 28. **Signal Processing and Learning over Topological Spaces**. Claudio Battiloro. [Thesis](https://theses.eurasip.org/theses/974/signal-processing-and-learning-over-topological/)
 
+29. **Gaussian Processes on Cellular Complexes**. Mathieu Alain, So Takao, Brooks Paige, Marc Peter Deisenroth. *ICML 2024*. [Paper](https://proceedings.mlr.press/v235/alain24a.html)
+
 ---
 
 ### Topological Signal Processing
