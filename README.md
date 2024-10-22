@@ -82,7 +82,9 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 29. **Gaussian Processes on Cellular Complexes**. Mathieu Alain, So Takao, Brooks Paige, Marc Peter Deisenroth. *ICML 2024*. [Paper](https://proceedings.mlr.press/v235/alain24a.html)
 
-30. **TopoTune: A Framework for Generalized Combinatorial Complex Neural Networks**. Papillon, Mathilde, Guillermo Bernárdez, Claudio Battiloro, and Nina Miolane. [Paper](https://arxiv.org/abs/2410.06530), [Code](https://github.com/geometric-intelligence/TopoBenchmark?tab=readme-ov-file#bulb-topotune)
+30. **TopoTune: A Framework for Generalized Combinatorial Complex Neural Networks**. Mathilde Papillon, Guillermo Bernárdez, Claudio Battiloro, and Nina Miolane. [Paper](https://arxiv.org/abs/2410.06530), [Code](https://github.com/geometric-intelligence/TopoBenchmark?tab=readme-ov-file#bulb-topotune)
+
+31. **Molecular topological deep learning for polymer property prediction**. Cong Shen, Yipeng Zhang, Fei Han, Kelin Xia. [Paper](https://arxiv.org/abs/2410.04765)
 
 ---
 
