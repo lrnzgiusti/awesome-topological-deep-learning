@@ -86,6 +86,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 31. **Molecular topological deep learning for polymer property prediction**. Cong Shen, Yipeng Zhang, Fei Han, Kelin Xia. [Paper](https://arxiv.org/abs/2410.04765)
 
+32.  **Bayesian Sheaf Neural Networks**. Patrick Gillespie, Vasileios Maroulas, Ioannis Schizas. [Paper](https://arxiv.org/abs/2410.09590)
+
 ---
 
 ### Topological Signal Processing
