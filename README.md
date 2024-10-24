@@ -88,6 +88,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 32.  **Bayesian Sheaf Neural Networks**. Patrick Gillespie, Vasileios Maroulas, Ioannis Schizas. [Paper](https://arxiv.org/abs/2410.09590)
 
+33.  **Higher-Order Topological Directionality and Directed Simplicial Neural Networks**.  [Paper](https://arxiv.org/abs/2409.08389), [Code](https://github.com/andrea-cavallo-98/DirSNN)  <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+
 ---
 
 ### Topological Signal Processing
