@@ -63,7 +63,6 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
        <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
    </a>
 
-
 22. **Topological Deep Learning: Graphs, Complexes, Sheaves**.  Cristian Bodnar. [Thesis](https://www.repository.cam.ac.uk/handle/1810/350982)
     
 23. **Weisfeiler and Lehman Go Paths: Learning Topological Features via Path Complexes**. Quang Truong and Peter Chin. *AAAI 2024*. [Paper](https://arxiv.org/abs/2308.06838), [Code](https://github.com/quang-truong/Path-Complex-Networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
@@ -88,7 +87,10 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 32.  **Bayesian Sheaf Neural Networks**. Patrick Gillespie, Vasileios Maroulas, Ioannis Schizas. [Paper](https://arxiv.org/abs/2410.09590)
 
-33.  **Higher-Order Topological Directionality and Directed Simplicial Neural Networks**.  [Paper](https://arxiv.org/abs/2409.08389), [Code](https://github.com/andrea-cavallo-98/DirSNN)  <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+33.  **Higher-Order Topological Directionality and Directed Simplicial Neural Networks**. Manuel Lecha, Andrea Cavallo, Francesca Dominici, Elvin Isufi, Claudio Battiloro. [Paper](https://arxiv.org/abs/2409.08389), [Code](https://github.com/andrea-cavallo-98/DirSNN)  <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+
+34. **TopoBenchmarkX: A Framework for Benchmarking Topological Deep Learning**. Lev Telyatnikov, Guillermo Bernardez, Marco Montagna, Pavlo Vasylenko, Ghada Zamzmi, Mustafa Hajij, Michael T Schaub, Nina Miolane, Simone Scardapane, Theodore Papamarkou. [Paper](https://arxiv.org/abs/2406.06642), [Code](https://github.com/geometric-intelligence/TopoBenchmark)  <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
+
 
 ---
 
