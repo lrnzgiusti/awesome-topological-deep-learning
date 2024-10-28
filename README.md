@@ -135,14 +135,11 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
   <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Torus.png">
 </p>
 
-
-
 2. **Discrete Differential Geometry**. Keenan Crane. [Website](https://brickisland.net/DDGSpring2022/), [Notes](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf), [Lectures](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
 
 <p align="center">
   <img width="400" src="https://brickisland.net/DDGSpring2022/wp-content/uploads/2019/01/cropped-cropped-header.png">
 </p>
-
 
 3. **Shape Analysis**. Justin Solomon. [Website](http://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html), [Lectures](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW)
 
