@@ -91,6 +91,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 34. **TopoBenchmarkX: A Framework for Benchmarking Topological Deep Learning**. Lev Telyatnikov, Guillermo Bernardez, Marco Montagna, Pavlo Vasylenko, Ghada Zamzmi, Mustafa Hajij, Michael T Schaub, Nina Miolane, Simone Scardapane, Theodore Papamarkou. [Paper](https://arxiv.org/abs/2406.06642), [Code](https://github.com/geometric-intelligence/TopoBenchmark)  <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
+35. **Topological Network Traffic Compression**. Guillermo Bernárdez, Lev Telyatnikov, Eduard Alarcón, Albert Cabellos-Aparicio, Pere Barlet-Ros, Pietro Liò. *Proceedings of the 2nd on Graph Neural Networking Workshop 2023.* [Paper](https://dl.acm.org/doi/abs/10.1145/3630049.3630172)
+
 
 ---
 
