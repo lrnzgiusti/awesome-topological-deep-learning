@@ -112,7 +112,6 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 3. **Cell Complexes through Time**. Reinhard Klette. *Vision Geometry 2000*. [Paper](https://www.maths.ed.ac.uk/~v1ranick/papers/klette.pdf)
 ---
 
-
 ### Differential Geometry
 
 1. **Introduction to Differential Geometry**. Joel W. Robbin, Dietmar A. Salamon. [Book](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf)
