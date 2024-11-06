@@ -102,7 +102,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 6. **Topological Signal Processing over Cell Complexes**. Stefania Sardellitti, Sergio Barbarossa, Lucia Testa. *arXiv 2021*. [Paper](https://arxiv.org/abs/2112.06709)
 7. **Topological Signal Representation and Processing over Cell Complexes**. Stefania Sardellitti, Sergio Barbarossa. *arXiv 2022*. [Paper](https://arxiv.org/abs/2201.08993)
 8. **Robust Signal Processing Over Simplicial Complexes**. Stefania Sardellitti, Sergio Barbarossa. *ICASSP 2022*. [Paper](https://ieeexplore.ieee.org/abstract/document/9746761/)
-9. **The physics of higher-order interactions in complex systems.** Battiston, Federico, Enrico Amico, Alain Barrat, Ginestra Bianconi, Guilherme Ferraz de Arruda, Benedetta Franceschiello, Iacopo Iacopini et al. *Nature Physics* [Paper](https://www.nature.com/articles/s41567-021-01371-4)
+9. **The physics of higher-order interactions in complex systems**. Battiston, Federico, Enrico Amico, Alain Barrat, Ginestra Bianconi, Guilherme Ferraz de Arruda, Benedetta Franceschiello, Iacopo Iacopini et al. *Nature Physics* [Paper](https://www.nature.com/articles/s41567-021-01371-4)
+10. **Recovery of Signals on a Simplicial Complex from Subsampled Neighbourhood Aggregation**. Siddartha Reddy; Sundeep Prabhakar Chepuri. *IEEE Signal Processing Letters* [Paper](https://ieeexplore.ieee.org/abstract/document/10706807)
 ---
 
 ### Algebraic Topology
