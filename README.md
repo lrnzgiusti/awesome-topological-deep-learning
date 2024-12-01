@@ -90,6 +90,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 35. **Topological Network Traffic Compression**. Guillermo Bernárdez, Lev Telyatnikov, Eduard Alarcón, Albert Cabellos-Aparicio, Pere Barlet-Ros, Pietro Liò. *Proceedings of the 2nd on Graph Neural Networking Workshop 2023.* [Paper](https://dl.acm.org/doi/abs/10.1145/3630049.3630172)
 
+36. **Topological Deep Learning : Going Beyond Graph Data**. Mustafa Hajij, Theodore Papamarkou, Ghada Zamzmi, Karthikeyan Natesan Ramamurthy, Tolga Birdal, Michael T. Schaub [Book](https://tdlbook.org/)
+
 
 ---
 
@@ -159,3 +161,4 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 1. **GUDHI: Geometry Understanding in Higher Dimensions**. [Website](https://gudhi.inria.fr/), [Code](https://github.com/GUDHI/gudhi-devel), [Tutorial](https://github.com/VincentRouvreau/GUDHI_presentation-NIPS_2017) 
 2. **PyDEC: Software and Algorithms for Discretization of Exterior Calculus**. Nathan Bell, Anil N. Hirani. *2011*. [Paper](https://arxiv.org/abs/1103.3076), [Code](https://github.com/hirani/pydec)
+3. **TopoX: A Suite of Python Packages for Machine Learning on Topological Domains**. Mustafa Hajij, Mathilde Papillon, Florian Frantzen, Jens Agerberg, Ibrahem AlJabea, Ruben Ballester, Claudio Battiloro, Guillermo Bernárdez, Tolga Birdal, Aiden Brent, Peter Chin, Sergio Escalera, Simone Fiorellino, Odin Hoff Gardaa, Gurusankar Gopalakrishnan, Devendra Govil, Josef Hoppe, Maneel Reddy Karri, Jude Khouja, Manuel Lecha, Neal Livesay, Jan Meißner, Soham Mukherjee, Alexander Nikitin, Theodore Papamarkou, Jaro Prílepok, Karthikeyan Natesan Ramamurthy, Paul Rosen, Aldo Guzmán-Sáenz, Alessandro Salatiello, Shreyas N. Samaga, Simone Scardapane, Michael T. Schaub, Luca Scofano, Indro Spinelli, Lev Telyatnikov, Quang Truong, Robin Walters, Maosheng Yang, Olga Zaghen, Ghada Zamzmi, Ali Zia, Nina Miolane. [Paper](https://arxiv.org/abs/2402.02441) [Code](https://pyt-team.github.io/)
