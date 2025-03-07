@@ -92,7 +92,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 36. **Topological Deep Learning : Going Beyond Graph Data**. Mustafa Hajij, Theodore Papamarkou, Ghada Zamzmi, Karthikeyan Natesan Ramamurthy, Tolga Birdal, Michael T. Schaub [Book](https://tdlbook.org/)
 
-37. **HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**. Huang, Yiming, and Tolga Birdal. arXiv preprint arXiv:2502.04308 (2025). [Paper](https://arxiv.org/pdf/2502.04308) [Code](https://github.com/Yiminghh/HOG-Diff)
+37. **HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**. Huang, Yiming, and Tolga Birdal. arXiv preprint arXiv:2502.04308 (2025). [Paper](https://arxiv.org/pdf/2502.04308), [Code](https://github.com/Yiminghh/HOG-Diff)
 
 ---
 
