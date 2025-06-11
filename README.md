@@ -94,6 +94,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 37. **HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**. Huang, Yiming, and Tolga Birdal. arXiv preprint arXiv:2502.04308 (2025). [Paper](https://arxiv.org/pdf/2502.04308), [Code](https://github.com/Yiminghh/HOG-Diff)
 
+38. **Higher-Order Molecular Learning: The Cellular Transformer**. Melih Barsbey, Rubén Ballester, Andac Demir, Carles Casacuberta, Pablo Hernández-García, David Pujol-Perich, Sarper Yurtseven, Sergio Escalera, Claudio Battiloro, Mustafa Hajij, Tolga Birdal (2025). [Paper](https://openreview.net/pdf?id=GW3h79mxrF)
+
 ---
 
 ### Topological Signal Processing
