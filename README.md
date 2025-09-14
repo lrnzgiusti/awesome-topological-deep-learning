@@ -125,6 +125,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 1. **Introduction to Differential Geometry**. Joel W. Robbin, Dietmar A. Salamon. [Book](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf)
 2. **Differential Geometry and Stochastic Dynamics with Deep Learning Numerics** Line Kühnel, Alexis Arnaudon, and Stefan Sommer. *arXiv 2017*. [Paper](https://arxiv.org/pdf/1712.08364.pdf)
 3. **Differential Geometry meets Deep Learning (DiffGeo4DL)** Joey Bose · Emile Mathieu · Charline Le Lan · Ines Chami · Frederic Sala · Christopher De Sa · Maximilian Nickel · Christopher Ré · Will Hamilton. *NeurIPS 2020 Workshop*. [Link](https://nips.cc/Conferences/2020/ScheduleMultitrack?event=16116)
+4. **Mathematical Foundations of Geometric Deep Learning**. Haitz Sáez de Ocáriz Borde, Michael Bronstein. *2025*. [Paper](https://arxiv.org/abs/2508.02723)
 ---
 
 ### Discrete Calculus
