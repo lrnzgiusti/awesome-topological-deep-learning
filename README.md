@@ -116,7 +116,8 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 1. **Computational and applied topology, tutorial**. Paweł Dłotko. *2018*. [Paper](https://arxiv.org/abs/1807.08607)
 2. **Algebraic topology**. Allen Hatcher.  *Cambridge Univ. Press. 2000*. [Book](http://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
 3. **Cell Complexes through Time**. Reinhard Klette. *Vision Geometry. 2000*. [Paper](https://www.maths.ed.ac.uk/~v1ranick/papers/klette.pdf)
-4. **Computational Topology for Data Analysis**. Tamal Krishna Dey. * ambridge University Press 2022*. [Book](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.pdf)
+4. **Computational Topology for Data Analysis**. Tamal Krishna Dey. *Cambridge University Press 2022*. [Book](https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.pdf)
+5. **Topological Methods in Machine Learning: A Tutorial for Practitioners**. Baris Coskunuzer, Cüneyt Gürcan Akçora. *2024*. [Paper](https://arxiv.org/abs/2409.02901)
 ---
 
 ### Differential Geometry
