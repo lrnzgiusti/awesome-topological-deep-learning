@@ -134,6 +134,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 2. **Discrete Calculus: Applied Analysis on Graphs for Computational Science**. Leo J. Grady, Jonathan R. Polimeni. *Springer 2010* . [Book](http://leogrady.net/wp-content/uploads/2017/01/grady2010discrete.pdf)
 3. **Discrete Differential Forms for Computational Modeling**. Mathieu Desbrun, Eva Kanso & Yiying Tong. *SIGGRAPH 2006*. [Paper](https://dl.acm.org/doi/pdf/10.1145/1185657.1185665?casa_token=K71FDD1wHvAAAAAA:BtLvvN-ChokfibpRnGZAOSNvBW4Qy0ZkiasCFoL3PovzI4TKqBAZz8W8aGb9wgSb1WG8gQmyvsIH)
+4. **Exterior Calculus in Graphics**. Stephanie Wang, Mohammad Sina Nabizadeh, and Albert Chern. *Course notes for a SIGGRAPH 2023 course* [Notes](https://stephaniewang.page/files/ECIG_notes_v1.00.pdf)
 ---
 
 ### Courses
