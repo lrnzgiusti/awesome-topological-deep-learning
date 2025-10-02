@@ -122,7 +122,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 51. **A Sheaf Neural Framework for Influence Maximization**. Adithya Hevapathige, Guni Sharon, Subbarao Kambhampati. *AAAI 2025*. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33888/36043)
 
-52. **Binarized Simplicial Convolutional Neural Networks**. Sarbani Palit, Stefania Ebli, Michael T. Schaub. *arXiv 2024*. [Paper](https://arxiv.org/abs/2405.04098)
+52. **Binarized Simplicial Convolutional Neural Networks**. Yi Yan, Ercan E. Kuruoglu. *arXiv 2024*. [Paper](https://arxiv.org/abs/2405.04098)
 
 53. **MANTRA: The Manifold Triangulations Assemblage** (Dataset/Benchmark for TDL). Rubén Ballester, Ernst Röell, Daniel Bin Schmid, Mathieu Alain, Sergio Escalera, Carles Casacuberta, Bastian Rieck. *ICLR 2025 (Poster)*. [Paper](https://openreview.net/forum?id=X6y5CC44HM)
 
