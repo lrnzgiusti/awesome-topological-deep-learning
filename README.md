@@ -114,7 +114,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 47. **Continuous Simplicial Neural Networks (COSIMO)**. Vasileios Margaris, Petar Kormushev. *arXiv 2025*. [Paper](https://arxiv.org/abs/2503.12919)
 
-48. **Quantum Simplicial Neural Networks**. Mihai Cătălin Mehedinți et al. *arXiv 2025*. [Paper](https://arxiv.org/abs/2501.05558)
+48. **Quantum Simplicial Neural Networks**. Simone Piperno, Claudio Battiloro, Andrea Ceschini, Francesca Dominici, Paolo Di Lorenzo, Massimo Panella. *arXiv 2025*. [Paper](https://arxiv.org/abs/2501.05558)
 
 49. **Fast and Simplex: 2-Simplicial Attention in Triton**. Ari Koskela, Ufois Demangeat, Arthur Mensch. *ICLR 2025 submission / arXiv 2024*. [Paper](https://arxiv.org/abs/2410.05359)
 
