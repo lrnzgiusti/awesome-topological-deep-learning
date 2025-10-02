@@ -90,11 +90,45 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 35. **Topological Network Traffic Compression**. Guillermo Bernárdez, Lev Telyatnikov, Eduard Alarcón, Albert Cabellos-Aparicio, Pere Barlet-Ros, Pietro Liò. *Proceedings of the 2nd on Graph Neural Networking Workshop 2023.* [Paper](https://dl.acm.org/doi/abs/10.1145/3630049.3630172)
 
-36. **Topological Deep Learning : Going Beyond Graph Data**. Mustafa Hajij, Theodore Papamarkou, Ghada Zamzmi, Karthikeyan Natesan Ramamurthy, Tolga Birdal, Michael T. Schaub [Book](https://tdlbook.org/)
+36. **Topological Deep Learning: Going Beyond Graph Data**. Mustafa Hajij, Theodore Papamarkou, Ghada Zamzmi, Karthikeyan Natesan Ramamurthy, Tolga Birdal, Michael T. Schaub [Book](https://tdlbook.org/)
 
 37. **HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**. Huang, Yiming, and Tolga Birdal. arXiv preprint arXiv:2502.04308 (2025). [Paper](https://arxiv.org/pdf/2502.04308), [Code](https://github.com/Yiminghh/HOG-Diff)
 
 38. **Higher-Order Molecular Learning: The Cellular Transformer**. Melih Barsbey, Rubén Ballester, Andac Demir, Carles Casacuberta, Pablo Hernández-García, David Pujol-Perich, Sarper Yurtseven, Sergio Escalera, Claudio Battiloro, Mustafa Hajij, Tolga Birdal (2025). [Paper](https://openreview.net/pdf?id=GW3h79mxrF)
+
+39. **Sheaf Hypergraph Networks**. Iulia Duta, Giulia Cassarà, Fabrizio Silvestri, Pietro Liò. *NeurIPS 2023*. [Paper](https://arxiv.org/abs/2309.17116), [Code](https://github.com/IuliaDuta/sheaf_HNN)
+
+40. **Learning From Simplicial Data Based on Random Walks and 1D Convolutions (SCRaWl)**. Florian Frantzen, Harald Oberhauser, Michael T. Schaub. *ICLR 2024*. [Paper](https://arxiv.org/abs/2404.03434), [Code](https://gitlab.beuth-hochschule.de/flofran/random-conv)
+
+41. **Simplicial Representation Learning with Neural k-Forms**. Kelly Maggs, Celia Hacker, Bastian Rieck. *ICLR 2024*. [Paper](https://arxiv.org/abs/2312.08515), [OpenReview](https://openreview.net/forum?id=Djw0XhjHZb), [Code](https://github.com/aidos-lab/neural-k-forms)
+
+42. **Differentiable Euler Characteristic Transforms for Shape Classification (DECT)**. Ernst Röell, Bastian Rieck. *ICLR 2024*. [Paper](https://arxiv.org/abs/2310.07630), [Code](https://github.com/aidos-lab/dect-evaluation)
+
+43. **Topological Deep Learning with State-Space Models (Mamba Approach)**. Marco Montagna, Simone Scardapane, Lev Telyatnikov. *arXiv 2024*. [Paper](https://arxiv.org/abs/2409.12033)
+
+44. **Topological Blindspots: Understanding and Extending Topological Deep Learning**. Yoav Gelberg, Yaniv Romano, Haggai Maron. *ICLR 2025 (Oral)*. [Paper](https://arxiv.org/abs/2408.05486), [Code (SMCN)](https://github.com/yoavgelberg/SMCN)
+
+45. **Bundle Neural Networks for Message Diffusion on Graphs (BuNNs)**. Jacob Bamberger, Federico Barbero, Xiaowen Dong, Michael Bronstein. *ICLR 2025*. [Paper](https://arxiv.org/abs/2405.15540), [OpenReview](https://openreview.net/forum?id=scI9307PLG), [Code](https://github.com/jacobbamberger/BuNN)
+
+46. **Heterogeneous Sheaf Neural Networks**. Oualid Zaghen, Azzedine El Moutaouakil, Jean-Guy Mailly, Sylvain Lamprier. *arXiv 2024*. [Paper](https://arxiv.org/abs/2409.08036)
+
+47. **Continuous Simplicial Neural Networks (COSIMO)**. Vasileios Margaris, Petar Kormushev. *arXiv 2025*. [Paper](https://arxiv.org/abs/2503.12919)
+
+48. **Quantum Simplicial Neural Networks**. Mihai Cătălin Mehedinți et al. *arXiv 2025*. [Paper](https://arxiv.org/abs/2501.05558)
+
+49. **Fast and Simplex: 2-Simplicial Attention in Triton**. Ari Koskela, Ufois Demangeat, Arthur Mensch. *ICLR 2025 submission / arXiv 2024*. [Paper](https://arxiv.org/abs/2410.05359)
+
+50. **Sheaf-based Positional Encodings for Graph Neural Networks**. Yu He, Cristian Bodnar, Pietro Liò. *NeurIPS 2024 Workshop (SGNR)*. [Paper](https://proceedings.mlr.press/v228/he24a.html), [OpenReview](https://openreview.net/forum?id=ZtAabWUPu3)
+
+51. **A Sheaf Neural Framework for Influence Maximization**. Adithya Hevapathige, Guni Sharon, Subbarao Kambhampati. *AAAI 2025*. [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33888/36043)
+
+52. **Binarized Simplicial Convolutional Neural Networks**. Sarbani Palit, Stefania Ebli, Michael T. Schaub. *arXiv 2024*. [Paper](https://arxiv.org/abs/2405.04098)
+
+53. **MANTRA: The Manifold Triangulations Assemblage** (Dataset/Benchmark for TDL). Rubén Ballester, Ernst Röell, Daniel Bin Schmid, Mathieu Alain, Sergio Escalera, Carles Casacuberta, Bastian Rieck. *ICLR 2025 (Poster)*. [Paper](https://openreview.net/forum?id=X6y5CC44HM)
+
+54. **Copresheaf Topological Neural Networks: A Generalized Framework for Learning on Sheaves**. Mustafa Hajij, Mathilde Papillon, Florian Frantzen, et al. *arXiv 2025*. [Paper](https://arxiv.org/abs/2505.21251)
+
+---
 
 ---
 
