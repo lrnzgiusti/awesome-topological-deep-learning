@@ -6,9 +6,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
   <img width="500" src="https://nyuad.nyu.edu/content/nyuad/en/home/research/faculty-labs-and-projects/cqts/events/_jcr_content/mainparsys/tabs_1957616313/tabparsys1/image/image.img.jpg">
 </p>
 
-1. **Simplicial Neural Networks**. Stefania Ebli, Michaël Defferrard, Gard Spreemann. *NeurIPS 2020 Workshop TDA and Beyond*. [Paper](https://openreview.net/pdf?id=nPCt39DVIfk), [Code](https://github.com/stefaniaebli/simplicial_neural_networks) <img alt="PyTorch" src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="14" style="vertical-align:text-bottom">, <a href="https://www.youtube.com/watch?v=2cidzWXH_vg">
-       <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
-   </a>
+1. **Simplicial Neural Networks**. Stefania Ebli, Michaël Defferrard, Gard Spreemann. *NeurIPS 2020 Workshop TDA and Beyond*. [Paper](https://openreview.net/pdf?id=nPCt39DVIfk), [Code](https://github.com/stefaniaebli/simplicial_neural_networks) <img alt="PyTorch" src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="14" style="vertical-align:text-bottom">, <a href="https://www.youtube.com/watch?v=2cidzWXH_vg"><img alt="YouTube" src="https://cdn.simpleicons.org/youtube/FF0000" height="14" style="vertical-align:text-bottom"></a>
 
 2. **Simplicial 2-Complex Convolutional Neural Nets**. Eric Bunch, Qian You, Glenn Fung, Vikas Singh. *NeurIPS 2020 Workshop TDA and Beyond*. [Paper](https://openreview.net/pdf?id=TLbnsKrt6J-), [Code](https://github.com/AmFamMLTeam/simplicial-2-complex-cnns) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
