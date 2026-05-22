@@ -183,6 +183,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 </p>
 
 3. **Shape Analysis**. Justin Solomon. [Website](http://groups.csail.mit.edu/gdpgroup/6838_spring_2021.html), [Lectures](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW)
+4. [TutorialSearch](https://tutorialsearch.io/?q=topological+deep) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 <p align="center">
   <img width="200" height="200" src="http://groups.csail.mit.edu/gdpgroup/assets/research_thumbnails/teapot.png">
